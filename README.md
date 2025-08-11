@@ -2,6 +2,11 @@
 
 I'm Kaiky, a Technology student focused on learn and be better at backend.
 
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vscode,postman,html,css)](https://skillicons.dev)
+![Static Badge](https://img.shields.io/badge/Coding-Task%20App-Yellow)
+[![wakatime](https://wakatime.com/badge/user/Kaiky404.svg)](https://wakatime.com/@Kaiky404)
+
 ---
 
 ### 🔭 Currently working on  
