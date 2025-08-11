@@ -3,9 +3,9 @@
 I'm Kaiky, a Technology student focused on learn and be better at backend.
 
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vscode,postman,html,css)](https://skillicons.dev).
-![Static Badge](https://img.shields.io/badge/Currently-Looking%20for%20Job-b95050?style=for-the-badge&labelColor=0f0f0f)
-![Static Badge](https://img.shields.io/badge/Studying-Andrew%20Mead%20NodeJS%20Couse-69832d?style=for-the-badge&labelColor=0f0f0f)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,vscode,postman,html,css)](https://skillicons.dev)
+
+![Static Badge](https://img.shields.io/badge/Currently-Looking%20for%20Job-b95050?style=for-the-badge&labelColor=0f0f0f) ![Static Badge](https://img.shields.io/badge/Studying-Andrew%20Mead%20NodeJS%20Couse-69832d?style=for-the-badge&labelColor=0f0f0f)
 
 ---
 
