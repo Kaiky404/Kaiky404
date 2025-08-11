@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Kaiky404/Kaiky404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kaiky, a Technology student focused on learn and be better at backend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on  
+Backend projects with Node.js, Express, and MongoDB.
+
+### 🌱 Currently learning  
+NodeJS, to then learn NestJS and best practices for REST APIs.
+
+### 📫 How to reach me  
+- [LinkedIn](https://www.linkedin.com/in/kaiky-silva/)  
+- [GitHub](https://github.com/Kaiky404)  
+- [Email](mailto:2004kfs@gmail.com)  
+
+---
+
+### ⚡ Fun fact  
+Always trying to be better than yesterday.
+
+---
+
+![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiky404&show_icons=true&theme=radical)
