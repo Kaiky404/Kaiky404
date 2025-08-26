@@ -24,7 +24,3 @@ Currently learning NodeJS, planning to learn NestJS and best practices for REST 
 
 ### ⚡ Fun fact  
 Always trying to be better than yesterday.
-
----
-
-![Kaiky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiky404&show_icons=true&theme=radical)
