@@ -18,7 +18,7 @@ Currently learning NodeJS, planning to learn NestJS and best practices for REST 
 ### 📫 How to reach me  
 - [LinkedIn](https://www.linkedin.com/in/kaiky-silva/)  
 - [GitHub](https://github.com/Kaiky404)  
-- [Email](mailto:2004kfs@gmail.com)  
+- [Email](mailto:kf.silva404@gmail.com)
 
 ---
 
